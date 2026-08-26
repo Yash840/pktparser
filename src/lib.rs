@@ -1,3 +1,3 @@
-mod ether;
+pub mod ether;
 
-use ether::{Ether, EtherType, EtherFrame, MacAddr, ParseError};
+pub use ether::{Ether, EtherType, EtherFrame, MacAddr, ParseError};
