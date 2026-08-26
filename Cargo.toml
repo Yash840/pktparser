@@ -1,0 +1,8 @@
+[package]
+name = "pktparser"
+version = "0.1.0"
+edition = "2024"
+description = "Packet parsing library written in Rust"
+license = "MIT"
+
+[dependencies]
